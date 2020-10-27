@@ -9,7 +9,7 @@ This program takes in a JSON-like file which is a representation of a bus compan
 - On demand stops test (on-demand stops cannot be initial, final, or transfer stops)
 
 ### Sample usage
-The greater-than symbol followed by a space (> ) represents the user input from the command-line.
+The greater-than symbol followed by a space (> ) represents the user input from the command-line. \
 **Example 1: File with correct syntax:**
 ```
 > python main.py test_2.txt
