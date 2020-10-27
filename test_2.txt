@@ -77,6 +77,6 @@
         "stop_name": "Sunset Boulevard",
         "next_stop": 0,
         "stop_type": "F",
-        "a_time": "08:16"
+        "a_time": "08:19"
     }
 ]
